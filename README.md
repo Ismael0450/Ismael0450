@@ -1,5 +1,5 @@
 ### Hi there, I'm Ismael👋
-## I'm a Software Engineer and PhD candidate in CS based in Dakar, Sénégal
+### I'm a Software Engineer and PhD candidate in CS based in Dakar, Sénégal
 
 <!--
 **Ismael0450/Ismael0450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
